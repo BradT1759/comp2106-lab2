@@ -1,8 +1,8 @@
 	*Barbara | Brian | Bradley | Jeffrey*
 
-Bradley is a student at Georgian college in Barrie, Ontario. He has lived close to home and
+<p>Bradley is a student at Georgian college in Barrie, Ontario. He has lived close to home and
 his family for most of his life. Bradley was once told by one of his teachers that he has a
-real knack for writing short stories and novels, and that he should keep it up.
+real knack for writing short stories and novels, and that he should keep it up.</p>
 --------------------------------------------------------------------------------------
 Notes: -the shared header is represented by the rectangular breaks and the two asterisks on
 the top line, as each link to each family member's page is equally spaced and to be in the
@@ -10,3 +10,5 @@ same "box" or location on the page.
 
 -The paragraph containing my description will have a wrap-around format depending on the size
 and magnification of the user's browser window.
+
+-I've also positioned the paragraph bracket markers with the wrap-around format in mind.

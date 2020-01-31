@@ -1,7 +1,7 @@
 	*Barbara | Brian | Bradley | Jeffrey*
 
-Jeffrey is the older brother of Bradley Tobin, and the firstborn child of Barbara and
-Brian Tobin. Jeff is handicapped but he enjoys swimming and being outdoors as much as possible.
+<p>Jeffrey is the older brother of Bradley Tobin, and the firstborn child of Barbara and
+Brian Tobin. Jeff is handicapped but he enjoys swimming and being outdoors as much as possible.</p>
 --------------------------------------------------------------------------------------
 Notes: -the shared header is represented by the rectangular breaks and the two asterisks on
 the top line, as each link to each family member's page is equally spaced and to be in the
@@ -9,3 +9,5 @@ same "box" or location on the page.
 
 -The paragraph containing my brother's description will have a wrap-around format depending on
 the size and magnification of the user's browser window.
+
+-I've also positioned the paragraph bracket markers with the wrap-around format in mind.
