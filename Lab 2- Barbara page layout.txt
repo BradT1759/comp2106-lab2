@@ -1,0 +1,12 @@
+	*Barbara | Brian | Bradley | Jeffrey*
+
+Barbara is a clerk for our Canadian government. She is a caring mother and wife
+in a family of four. She is also a trustworthy person who has a positive outlook.
+
+--------------------------------------------------------------------------------------
+Notes: -the shared header is represented by the rectangular breaks and the two asterisks on
+the top line, as each link to each family member's page is equally spaced and to be in the
+same "box" or location on the page.
+
+-The paragraph containg Mom's description will have a warp-around format depending on the size
+and magnification of the user's browser window.
