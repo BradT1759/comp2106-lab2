@@ -2,7 +2,6 @@
 
 Barbara is a clerk for our Canadian government. She is a caring mother and wife
 in a family of four. She is also a trustworthy person who has a positive outlook.
-
 --------------------------------------------------------------------------------------
 Notes: -the shared header is represented by the rectangular breaks and the two asterisks on
 the top line, as each link to each family member's page is equally spaced and to be in the
