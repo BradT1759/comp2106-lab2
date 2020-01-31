@@ -1,7 +1,7 @@
 	*Barbara | Brian | Bradley | Jeffrey*
 
-Brain is a technical director for a news broadcasting network. He is one of the toughest
-people that I know and does not hesitate to speak his mind. Brain is also a 'Trekker' -
+Brian is a technical director for a news broadcasting network. He is one of the toughest
+people that I know and does not hesitate to speak his mind. Brian is also a 'Trekker' -
 a fan of Star Trek -.
 --------------------------------------------------------------------------------------
 Notes: -the shared header is represented by the rectangular breaks and the two asterisks on
