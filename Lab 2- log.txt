@@ -51,3 +51,7 @@ localhost prior to today.
 
 -I confirmed that Blackboard registered my submission properly, so I'm just adding and updating
 files in my repository.
+
+-12:10 PM: Did my final updates with optional description for the log and page layouts to show
+the deep thought and planning that went into this lab. This will be my 18th commit for most of
+the files while this log will be my third version of it.
