@@ -1,12 +1,13 @@
 	*Barbara | Brian | Bradley | Jeffrey*
 
-Barbara is a clerk for our Canadian government. She is a caring mother and wife
-in a family of four. She is also a trustworthy person who has a positive outlook.
+Brain is a technical director for a news broadcasting network. He is one of the toughest
+people that I know and does not hesitate to speak his mind. Brain is also a 'Trekker' -
+a fan of Star Trek -.
 
 --------------------------------------------------------------------------------------
 Notes: -the shared header is represented by the rectangular breaks and the two asterisks on
 the top line, as each link to each family member's page is equally spaced and to be in the
 same "box" or location on the page.
 
--The paragraph containing Mom's description will have a wrap-around format depending on the size
+-The paragraph containing Dad's description will have a wrap-around format depending on the size
 and magnification of the user's browser window.
