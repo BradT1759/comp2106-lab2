@@ -1,4 +1,4 @@
-	*Barbara | Brian | Bradley | Jeffrey*
+		<h>*Barbara | Brian | Bradley | Jeffrey*</h>
 
 <p> Barbara is a clerk for our Canadian government. She is a caring mother and wife
 in a family of four. She is also a trustworthy person who has a positive outlook. </p>

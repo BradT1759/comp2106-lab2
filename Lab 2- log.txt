@@ -1,0 +1,53 @@
+Tuesday afternoon: -Lab 2 was first assigned, read the instructions, and started drafting
+up plans for each webpage on the site. The latter of this sentence happened after a small
+car accident.
+
+-At night, I began looking up how to unlock expressJS in my node.js command prompt
+
+Wednesday: -I had to attend a doctor's appoinment this morning, and Mom and I didn't get home
+until just after 3PM due to the waiting and terrible traffic outside of the office.
+
+-I created my github repository and started filling it in with the text documents depicting
+my plans for my family pages and what the output should be like.
+
+-I also created a sketch of the shared header but its on paper, and I could not photograph
+and upload the image to my github repository despite my feelinf it to be crucial.
+
+Thursday afternoon: -Attended a tutor session in K building to see if I can solve my problem
+with getting expressJS and understanding the instructions.
+
+-I learned and practiced a couple commands for the node.js command prompt prior to installing
+express.js
+
+-At home, I got some ideas and input from my parents about what I should write for the site,
+and gave them Rich's example so they'd know what the concept is and how I would not give away
+too much personal information. I jotted down their ideas on paper - pen for the sentences I
+was going to keep, and pecil for the ones my parents and I weren't sure about or were most
+likely to change before typing the final draft-.
+
+-In chronological order, I followed my choice for the shared header text: I created Mom's page first,
+Dad's page second, my page third, and Jeffrey's the fourth.
+
+-Late at night, I committed at least five versions of each family page as I discovered typos and
+syntax error, and had to think about how they looked on a public github repository; one or
+two of my pages, including my Mom's, has seven commits of the same name that replaced
+each other.
+
+-I also tried a command that was supposed to give me access to express in the Node.js command prompt.
+It was around 10 PM and there were some difficutlies and educational articles I had to read about.
+
+-33 minutes before 11 PM EST*, I carefully copied and submitted the url link to my github repository
+for lab2 on Blackboard to Mr. Freeman in case something went wrong while my computer was deactivated and updating.
+
+-Friday: a quarter to 11, I resumed work and updating and uploading text documents for
+my family pages, making sure the message was delivered, my link was submitted, and the coding
+scheme made sense.
+
+I'm including where the header and paragraph arrowheads are supposed to go
+to the documents right now. Unfortunately, I could not gain access to express, Heroku or the
+localhost prior to today.
+
+-11:25 AM: I'm adding a log to support the long hours I spent working on this despite the car accident.
+
+-I confirmed that Blackboard registered my submission properly, so I'm just adding and updating
+files in my repository.
